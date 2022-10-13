@@ -1,2 +1,3 @@
 minha primeira linha
 minha segunda linha
+linha adicionada localmente
